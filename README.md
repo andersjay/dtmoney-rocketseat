@@ -1,1 +1,3 @@
-# dtmoney-rocketseat
+# dtMoney
+
+Application created using ReactJS
